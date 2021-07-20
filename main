@@ -1,0 +1,6 @@
+In a city of Stockholm, finding out what is the most popular type of restaurant is useful.
+I will create a program that will search through all ratings of restaurants in stockholm, sort it by food type, and get an average score from them.
+This is useful for people who wish to start a new restaurant in Stockholm, to identify what type of food is best to specialize and increase visitors and margins.
+
+To solve this problem, I will combine all  foursquare data, searching for all restaurants in stockholm, extracting the average rating and the type of food it sells.
+A part from the average score per food type, consideration of low number of restaurants as well as standard deviation will have to be determined to get the accuracy of the data
